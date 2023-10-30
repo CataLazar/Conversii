@@ -7,7 +7,7 @@ The code currently doesn't have any exception handling to handle invalid user in
 or handling characters outside of the cipher.
 
 The number is first converted to base 10 via the "powers-of-10" method, where, for example, 4124.25 in base 5 is
-4*5^3 + 1*5^2 + 2*5^1 + 4*5^0 + 2*5^-1 + 5*5^-2 = 539.6
+4\*5^3 + 1\*5^2 + 2\*5^1 + 4\*5^0 + 2\*5^-1 + 5\*5^-2 = 539.6
 
 The number in base 10 is then converted to the target base by repeated division with remainder significance.
 539 / 13 = 41 remainder 6                      0.6 * 13 = 7.8
