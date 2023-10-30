@@ -1,0 +1,15 @@
+/home/sapok/Desktop/VSC/C#/Conversii/bin/Debug/net7.0/Conversii
+/home/sapok/Desktop/VSC/C#/Conversii/bin/Debug/net7.0/Conversii.deps.json
+/home/sapok/Desktop/VSC/C#/Conversii/bin/Debug/net7.0/Conversii.runtimeconfig.json
+/home/sapok/Desktop/VSC/C#/Conversii/bin/Debug/net7.0/Conversii.dll
+/home/sapok/Desktop/VSC/C#/Conversii/bin/Debug/net7.0/Conversii.pdb
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/Conversii.csproj.AssemblyReference.cache
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/Conversii.GeneratedMSBuildEditorConfig.editorconfig
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/Conversii.AssemblyInfoInputs.cache
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/Conversii.AssemblyInfo.cs
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/Conversii.csproj.CoreCompileInputs.cache
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/Conversii.dll
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/refint/Conversii.dll
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/Conversii.pdb
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/Conversii.genruntimeconfig.cache
+/home/sapok/Desktop/VSC/C#/Conversii/obj/Debug/net7.0/ref/Conversii.dll

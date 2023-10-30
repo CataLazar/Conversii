@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IV7b+VbSivRJKbZ5bUj5M3fy9qaQKhDzMq1h4Mcqy3zT1azXfiRvF3RbTguy4wOnPoFMTr20wrWHldWaJINn+A==",
+  "success": true,
+  "projectFilePath": "/home/sapok/Desktop/VSC/C#/Conversii/Conversii.csproj",
+  "expectedPackageFiles": [
+    "/home/sapok/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
